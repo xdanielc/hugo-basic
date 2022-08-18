@@ -1,0 +1,10 @@
+baseURL = 'https://danielcalderon-dp.netlify.app/'
+languageCode = 'es-es'
+title = 'Web de Daniel'
+pluralizelisttitles = false
+uglyurls = true
+
+[taxonomies]
+ tag = "tags"
+ category = "categories"
+
